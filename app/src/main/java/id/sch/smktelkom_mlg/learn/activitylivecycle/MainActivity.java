@@ -6,7 +6,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = ;
+    private static final String TAG = "LivecycleTag";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
