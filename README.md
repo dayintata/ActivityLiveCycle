@@ -1,7 +1,8 @@
 # ActivityLivecycle
 
 ###SCREENSHOT
-![screenshot_2016-10-09-23-35-40](https://cloud.githubusercontent.com/assets/22117431/19222129/996222ae-8e7b-11e6-8b2d-ccd24ed13f46.jpg)
+![livecycle music 1 1](https://cloud.githubusercontent.com/assets/22117431/22322436/b21111b8-e3ce-11e6-8678-e4b80c511c65.JPG)
+![livecycle music 1 2](https://cloud.githubusercontent.com/assets/22117431/22322438/ba234952-e3ce-11e6-8acd-cf66befbd98e.JPG)
 
 ###DATA DIRI
 - Nama          : Dayinta Indah Sari
